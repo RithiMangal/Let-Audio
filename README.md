@@ -3,8 +3,6 @@
 ### For all Cowon JetAudio lovers on Linux — the wait is over.
 
 ![Rust](https://img.shields.io/badge/built_with-RustCE422B?style=for-the-badge&logo=rust&logoColor=white)
-![Linux](https://img.shields.io/badge/platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![License](https://img.shields.io/badge/license-MIT-00e5ff?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/platform-Linux-blue?style=for-the-badge&logo=linux)
 ![Rust](https://img.shields.io/badge/built_with-Rust-orange?style=for-the-badge&logo=rust)
 ![License](https://img.shields.io/badge/license-GPL--3.0-green?style=for-the-badge)
